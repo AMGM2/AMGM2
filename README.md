@@ -8,7 +8,7 @@
 
 ## 💼 Proyectos personales
 - 🤖 **Práctica con PLC**: [Link al repo o en construcción]
-- 🤖 **Practica Ejercicios MATLAB en base a libro de IA para automatización y robotica **: [Link al repo]
+- 🤖 **Practica Ejercicios MATLAB en base a libro de IA para automatización y robotica **: [Link al repo](https://amgm2.github.io/matlab-ia.html)
 - ⚙ **Proyecto 2**: [Link al repo o en construcción]
 
 ## 📚 Proyectos de la facultad
@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MATLAB](https://img.shields.io/badge/Matlab-Symbol-orange?logo=matlab%26logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange)
 
 ---
 
