@@ -8,13 +8,14 @@
 
 ## 💼 Proyectos personales
 - 🤖 **Práctica con PLC**: [Link al repo o en construcción]
-- 🤖 **Practica Ejercicios MATLAB en base a libro de IA para automatización y robotica **: [Link al repo](https://amgm2.github.io/matlab-ia.html)
+- 🤖 **Practica Ejercicios MATLAB en base a libro de IA para automatización y robotica**: [Link al repo](https://amgm2.github.io/matlab-ia.html)
 - ⚙ **Proyecto 2**: [Link al repo o en construcción]
 
 ## 📚 Proyectos de la facultad
 
---🔋 **Proyecto de Electronica**: [Link al repo o en construcción]
---🔋 **Proyecto de Tecnicas Digitales**: [Link al repo o en construcción]
+-🔋 **Proyecto de Electronica**: [Link al repo o en construcción]
+
+-🔋 **Proyecto de Tecnicas Digitales**: [Link al repo o en construcción]
 
 ---
 
